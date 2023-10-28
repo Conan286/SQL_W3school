@@ -1,0 +1,4 @@
+SELECT *
+FROM Orders
+right join Customers
+ON Orders.CustomerID=Customers.CustomerID;

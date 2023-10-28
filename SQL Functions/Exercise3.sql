@@ -1,0 +1,3 @@
+SELECT count(*)
+FROM Products
+where Price = 18;

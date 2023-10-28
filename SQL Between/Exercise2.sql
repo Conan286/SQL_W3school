@@ -1,0 +1,2 @@
+SELECT * FROM Products
+WHERE Price not between 10 and 20;
